@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "joshie",
+  "address": "0x2f1c5628e931fc75cf097072f61b9dc72d1d827f",
+  "risk": "2",
+  "title": "Borrower may be forced to pay more interest than he expected",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/14"
+}
