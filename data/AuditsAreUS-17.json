@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "Lack of Limit on `amount` Allows Borrowers To Be Extorted For Interest Payments",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/17"
+}
