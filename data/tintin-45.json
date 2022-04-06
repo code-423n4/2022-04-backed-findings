@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "tintin",
+  "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+  "risk": "2",
+  "title": "NFTLoanFacilitator lend() function vulnerable to re-entrancy",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/45"
+}
