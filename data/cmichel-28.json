@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Might not get desired min loan amount if `_originationFeeRate` changes",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/28"
+}
