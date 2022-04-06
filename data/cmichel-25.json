@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "New lenders pay interest **for all** previous lenders, not just the current lender",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/25"
+}
