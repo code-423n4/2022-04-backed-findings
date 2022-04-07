@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`mintBorrowTicketTo` can be a contract with no `onERC721Received` method, which may cause the BorrowTicket NFT to be frozen and put users' funds at risk",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/81"
+}
