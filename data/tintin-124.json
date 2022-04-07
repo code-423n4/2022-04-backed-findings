@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "tintin",
+  "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+  "risk": "3",
+  "title": "Malicious users can frontrun borrowers trying to repay loans, causing DoS and possibly a loan default",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/124"
+}
