@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "teryanarmen",
+  "address": "0x9e255e1544E5D9B5C7766076890B059a27CAFCC1",
+  "risk": "2",
+  "title": "Protocol fees can be locked in the contract by owner.",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/114"
+}
