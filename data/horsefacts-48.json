@@ -1,9 +1,0 @@
-{
-  "contest": 106,
-  "handle": "horsefacts",
-  "address": "0x79d31bFcA5Fda7A4F15b36763d2e44C99D811a6C",
-  "risk": "2",
-  "title": "Lend and borrow tickets can be transferred to the NFTLoanFacilitator",
-  "issueId": 48,
-  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/48"
-}
