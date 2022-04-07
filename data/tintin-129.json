@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "tintin",
+  "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+  "risk": "2",
+  "title": "A borrower can lend to themselves, receiving a borrowTicket and lendTicket for the same loanId",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/129"
+}
