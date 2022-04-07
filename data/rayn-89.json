@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "When an attacker lends to a loan, the attacker can trigger DoS that any lenders can not buyout it",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/89"
+}
