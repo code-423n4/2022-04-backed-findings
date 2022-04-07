@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "CertoraInc",
+  "address": "0x009dA689fE16166448B0D6C0f5D2F82033A16B8A",
+  "risk": "2",
+  "title": "Lend transactions without fees for the protocol.",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/97"
+}
