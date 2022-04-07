@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "3",
+  "title": "Borrower can be their own lender and steal funds from buyout due to reentrancy",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/85"
+}
