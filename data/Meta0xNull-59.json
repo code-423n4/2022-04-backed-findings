@@ -1,0 +1,9 @@
+{
+  "contest": 106,
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "2",
+  "title": "createLoan() Possible to Bypass Restriction collateralContractAddress != TicketContract",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backed-findings/issues/59"
+}
